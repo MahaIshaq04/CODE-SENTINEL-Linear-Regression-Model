@@ -62,7 +62,6 @@ The dataset used is similar to the **Boston Housing dataset**, containing inform
 - **Scatter Plot with Regression Line**  
 - **3D Plot of RM, LSTAT vs MEDV**
 
-*(Add screenshots here when pushing to GitHub)*
 
 ---
 
